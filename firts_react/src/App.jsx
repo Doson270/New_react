@@ -78,6 +78,7 @@ function App() {
             <strong>Titre : </strong>{book.title} — <strong>Auteur : </strong>{book.authors[0].name} 
           </li>
         ))}
+        
       </ul>
 
       {/* Ma condition if avec mon else ":" */}
